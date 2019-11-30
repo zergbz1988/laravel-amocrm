@@ -1,5 +1,5 @@
 {
-    "name": "mooza/laravel-amocrm",
+    "name": "zergbz1988/laravel-amocrm",
     "description": "ServiceProvider и Facade для Laravel 5/6 предоставляющие интеграцию с API amoCRM",
     "license": "MIT",
     "keywords": ["laravel", "amocrm", "crm", "api"],

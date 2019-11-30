@@ -13,7 +13,7 @@
 Используя [Composer](https://getcomposer.org/), в корнерой директории проекта.
 
 ```bash
-$ composer require mooza/laravel-amocrm
+$ composer require zergbz1988/laravel-amocrm
 ```
 
 ## Настройка
